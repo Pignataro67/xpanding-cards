@@ -16,6 +16,10 @@ body {
   overflow: hidden;
 }
 
+.magic {
+  background-color: #f9ca24;
+}
+
 .magic:focus {
   outline: none;
 }
