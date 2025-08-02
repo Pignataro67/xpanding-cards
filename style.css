@@ -40,3 +40,7 @@ body {
   box-shadow: none;
   transform: translateY(2px);
 }
+
+.boxes {
+  display: flex;
+}
