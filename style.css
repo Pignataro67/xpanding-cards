@@ -43,7 +43,7 @@ body {
 }
 
 .testimonial {
-  line-height: 28px;
+  line-height: 27px;
   text-align: justify;
 }
 
@@ -55,8 +55,8 @@ body {
 
 .user .user-image {
   border-radius: 50%;
-  height: 75px;
-  width: 75px;
+  height: 70px;
+  width: 70px;
   object-fit: cover;
 }
 
